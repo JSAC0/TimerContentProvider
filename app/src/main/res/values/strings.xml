@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="read_provider_permission_label">Read provider data</string>
+    <string name="read_provider_description">Permission to read data from the My Application Content Provider</string>
+
+</resources>
